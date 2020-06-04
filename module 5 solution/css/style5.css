@@ -13,7 +13,7 @@ body {
 }
 
 #logo-img {
-  background: url('F:/sublime files/module 5 solution/images/restaurant-logo_large.png') no-repeat;
+  background: url('images/restaurant-logo_large.png') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
@@ -136,7 +136,7 @@ body {
   background-position: center;
 }
 #specials-tile {
-  background: url('F:/sublime files/module 5 solution/images/specials-tile.jpg') no-repeat;
+  background: url('images/specials-tile.jpg') no-repeat;
   background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
